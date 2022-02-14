@@ -7,7 +7,7 @@
             <input type="text" name="sname" />
         </div>
         <div class="form-group">
-            <label>Address</label>
+            <label>My Address</label>
             <input type="text" name="saddress" />
         </div>
         <div class="form-group">
@@ -28,7 +28,7 @@
             </select>
         </div>
         <div class="form-group">
-            <label>Phone</label>
+            <label>Contact Phone</label>
             <input type="text" name="sphone" />
         </div>
         <input class="submit" type="submit" value="Save"  />
