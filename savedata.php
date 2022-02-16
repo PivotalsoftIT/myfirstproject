@@ -14,4 +14,5 @@ header("Location: http://localhost/crud/index.php");
 
 mysqli_close($conn);
 echo("Done");
+echo("No issues found");
 ?>
